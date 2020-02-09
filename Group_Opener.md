@@ -2,7 +2,7 @@
 
 This text is displayed on the top of the groups w3.org webpage (https://www.w3.org/community/lbd/).
 
-# The text:
+# The text [DRAFT]:
 
 This group unites globally experts in the area of Building Information Modelling (BIM) and Web of Data technologies. It forms a melting point for experts from both industry and academia, which are working together to specifically address the challenges of integrating heterogeneous data in the built environment over the building and infrastructure life cycle using web of data technologies. The members of the group seek to define existing and future use cases and requirements for linked data based applications across the life cycle of buildings.
 
